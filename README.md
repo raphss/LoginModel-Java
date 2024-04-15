@@ -8,7 +8,7 @@
 
 ## About
 
-A Login Model/Template made in Java.
+A Login Model/Template made in Java and Java Swing, with access to database (H2DB).
 
 ## How to Contribute
 
