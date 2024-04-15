@@ -1,6 +1,6 @@
 # LoginModel-Java
 
-> Version 1.0.
+> Version 1.0
 
 <p align="center">
     <img src="login-java.png" alt="Login Model" width="600">
